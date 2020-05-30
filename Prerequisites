@@ -1,0 +1,5 @@
+Make sure you have the pillow installed on your python modules
+Installation of pillow 
+
+Windows: pip install pillow
+Linux/MaCOS: pip3 install pillow
