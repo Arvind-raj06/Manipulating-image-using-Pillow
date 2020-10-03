@@ -23,3 +23,6 @@ Some of the operations in Pillow are:
 ## Color Transforms
 
 It will be cool to work with Pillow, just go on with it
+
+
+[![DeepSource](https://deepsource.io/gh/Arvind-raj06/Manipulating-image-using-Pillow.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/Arvind-raj06/Manipulating-image-using-Pillow/?ref=repository-badge)
